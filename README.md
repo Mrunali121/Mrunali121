@@ -5,7 +5,7 @@
 I plan, run and report IT projects, and I build small tools to prove how I work. This profile is my portfolio: each project below is a case study with real documents, data and a working demo.
 
 📍 Berlin, Germany  ·  🎯 **Open to IT Project Manager / Junior PM / PMO roles in Germany**
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  ·  ✉️ mrunalirajgor@gmail.com  ·  🌐 [Portfolio site](https://mrunali121.github.io/YOUR-PORTFOLIO-REPO/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mrunali-rajgor/)  ·  ✉️ mrunalirajgor@gmail.com  ·  🌐 [Portfolio site](https://mrunali121.github.io/YOUR-PORTFOLIO-REPO/)
 
 ---
 
@@ -37,7 +37,7 @@ A dashboard for 15 IT projects that scores project health, flags budget and sche
 **Project management:** Agile/Scrum · Waterfall · Hybrid · project charter & business case · WBS & scheduling · RAID · stakeholder management · RACI · risk & budget tracking · earned value · status reporting · UAT & go-live
 **Tools:** Jira · MS Project · Excel · Power BI · Confluence · GitHub
 **Technical:** Python · SQL · JavaScript · Android development (earlier career)
-**Languages:** English · *(add German level and other languages)*
+**Languages:** English, German
 
 > Edit this list so it only contains skills you can speak about in an interview.
 
